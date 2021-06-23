@@ -1,0 +1,13 @@
+alias lt='ls --human-readable --size -1 -S --classify'
+alias left='ls -t -1'
+alias count='find . -type f | wc -l'
+alias tcn='mv --force -t ~/.local/share/Trash'
+alias python='python3'
+alias please='sudo'
+alias ..='cd ..'
+alias cls='clear'
+alias whereami="pwd"
+alias wtfami="pwd"
+alias giti="git"
+alias gitlog="git log --oneline -n 10"
+alias www="python3 -m http.server"
